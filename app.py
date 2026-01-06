@@ -12,7 +12,7 @@ from langchain_core.documents import Document
 # --- Page Config ---
 st.set_page_config(page_title="Interactive Biography RAG", page_icon="👤")
 
-st.title("👤 Interactive Biography")
+st.title("👤 Samuel's Interactive Biography")
 st.markdown("Upload a biography (text file) and ask questions to chat with it.")
 
 # --- Sidebar: Configuration ---
