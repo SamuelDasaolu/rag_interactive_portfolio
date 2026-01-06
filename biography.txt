@@ -1,0 +1,163 @@
+# Chronological Professional Biography
+
+## Subject
+
+**Name:** Samuel Dasaolu
+**Professional Orientation:** Mechatronics / Automotive Engineering, Embedded Systems, Applied AI
+**Primary Domains of Activity:** Automotive diagnostics and repair, embedded systems development, smart water systems, applied machine learning, civic/legal AI applications
+
+---
+
+## Early Professional and Technical Formation (2024)
+
+In 2024, Samuel Dasaolu was actively engaged in hands-on automotive engineering practice at **Automedics Limited**, a Nigerian automobile repairs and maintenance firm specializing primarily in light trucks and passenger vehicles. His work routine typically began at **8:00 AM**, involving workshop sanitation, tool preparation, and formal reporting under an assigned supervising technician.
+
+During this period, Samuel combined fieldwork with structured technical education. He attended an **automobile diagnosis class organized by Automedics** on **Mondays, Wednesdays, and Fridays**, typically scheduled from **2:00 PM to 4:00 PM**. These classes emphasized modern vehicle diagnostics, electronic control systems, and transmission technologies.
+
+### Notable Workshop Activities and Technical Tasks
+
+* **Toyota Hilux:** Full-day replacement of a damaged clutch disc.
+* **Honda Pilot:** Torque converter replacement, during which a worn shaft failed due to mechanical degradation.
+* **Toyota Highlander:** Transmission servicing.
+* **Mitsubishi L200:** General engine tune-up and lubrication service performed under the supervision of Mr. Segun.
+
+These tasks reflect early exposure to drivetrain systems, fault diagnosis, mechanical-electronic integration, and real-world failure modes in automotive systems.
+
+Environmental factors occasionally impacted operations; for example, one midweek workshop session was missed due to heavy rainfall, highlighting the practical constraints of field-based engineering work.
+
+---
+
+## Transition Toward Embedded Systems and Smart Infrastructure (2025)
+
+By 2025, Samuel’s technical focus expanded beyond automotive systems into **embedded systems engineering** and **smart infrastructure development**. This transition marked a shift from purely mechanical-electrical systems toward cyber-physical systems integrating sensors, microcontrollers, data processing, and networked control.
+
+### Smart Water Purification System Project
+
+Samuel undertook a major embedded systems project titled **“Smart Water Purification System”**, which later became both a formal technical report and the basis for a journal article submission.
+
+#### Core Hardware and System Components
+
+* ESP32 microcontroller
+* Sensors:
+
+  * Total Dissolved Solids (TDS)
+  * pH sensor
+  * Turbidity sensor
+  * Temperature sensor
+  * Flow sensor
+  * Pressure sensor
+  * Hall-effect sensor
+* Actuators and Outputs:
+
+  * Solenoid valve
+  * DC pump
+  * UV purification lamps
+  * LED indicators
+* Interfaces:
+
+  * I2C LCD display
+  * Clock module
+* Filtration Units:
+
+  * Reverse Osmosis (RO) filter
+  * Sediment filter
+
+#### System Functionality
+
+The system was designed to:
+
+* Acquire real-time water quality and flow data via analog and digital sensors
+* Display system status locally on an I2C LCD
+* Transmit processed data to a **Blynk server** for remote monitoring
+* Automatically control water flow and purification processes using actuators
+* Detect blockages, abnormal pressure conditions, and system faults
+
+Data filtering and logic control were initially implemented using **procedural programming techniques** on the ESP32 platform.
+
+#### Demonstration Limitation and Project Handover
+
+During the final demonstration to the project supervisor, the system could not be powered due to a **failed and non-rechargeable battery**. As a mitigation strategy, Samuel produced a comprehensive **handover and improvement report** intended for a successor.
+
+This report explicitly recommended:
+
+* Migration from procedural logic to **machine learning or AI-based models**
+* Long-term water quality trend analysis
+* Predictive maintenance and system health monitoring
+
+---
+
+## Academic Writing and Publication-Oriented Work
+
+Samuel demonstrated increasing engagement with formal technical communication and academic dissemination.
+
+* He adopted structured summarization standards for journal articles, consistently including:
+
+  * Introduction
+  * Aims and objectives
+  * Methodology
+  * Results
+  * Limitations
+
+* His revised project report followed the **Federal University of Agriculture, Abeokuta (FUNAAB), Department of Mechatronics Engineering** formatting guidelines.
+
+* He later prepared a **journal article for NIJOTECH** derived from the Smart Water Purification System, with an explicit requirement that the tone be **humanized and reader-friendly** while retaining technical rigor and compliance with publication standards.
+
+---
+
+## Applied Artificial Intelligence and Civic Technology Initiatives
+
+Samuel’s work further evolved into **applied AI system design**, particularly in socially impactful domains.
+
+### CivicAccess: The Multilingual Legal First Responder
+
+Samuel conceptualized and refined **CivicAccess**, an AI-powered legal assistant designed to democratize access to justice in Nigeria.
+
+**Core Concept:**
+CivicAccess interprets the **Constitution of the Federal Republic of Nigeria** and **Tenancy Laws** into plain, accessible language across multiple Nigerian languages:
+
+* English
+* Hausa
+* Igbo
+* Yoruba
+
+**Primary Use Case:**
+Providing real-time legal clarity during police encounters and tenancy disputes, particularly for individuals without immediate access to legal counsel.
+
+This initiative demonstrates Samuel’s shift toward:
+
+* Retrieval-augmented AI systems
+* Multilingual NLP
+* High-stakes, real-world AI deployment
+
+---
+
+## Software Engineering and Machine Learning Tooling
+
+Samuel has actively worked with:
+
+* Python-based machine learning workflows
+* Jupyter notebooks with structured markdown and executable code blocks
+* End-to-end ML pipelines for experimentation and demonstration
+
+He has shown consistent interest in:
+
+* Retrieval-Augmented Generation (RAG)
+* AI explainability and accessibility
+* Human-centered AI system design
+
+---
+
+## Current Technical Trajectory
+
+At present, Samuel Dasaolu’s trajectory sits at the intersection of:
+
+* Embedded systems and IoT
+* Applied machine learning and AI
+* Automotive and mechanical-electrical systems
+* Civic and infrastructure-focused technology
+
+His work reflects a progression from hands-on mechanical engineering toward **intelligent, data-driven, and socially relevant systems**, with increasing emphasis on AI integration, system robustness, and real-world deployment constraints.
+
+---
+
+*This document is factually constrained to verifiable interactions, projects, and activities recorded across prior engagements and is ordered chronologically to support downstream retrieval and reasoning tasks in AI applications.*
